@@ -54,7 +54,7 @@ curl "http://localhost:8000/exchange_rate?from_currency=USD&to_currency=GBP&amou
 ```
 
 ## Interactive Documentation
-
+The bottom are some examples of documentation - 
 FastAPI automatically generates interactive API documentation:
 - Swagger UI: http://localhost:8000/docs
 - ReDoc: http://localhost:8000/redoc
